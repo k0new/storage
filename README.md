@@ -1,4 +1,4 @@
-# Go Redis-Like Key-Value Store with TTL
+# Go Redis-Like Key-Value Store
 This project provides a Redis-like key-value store implemented in Go that supports *Set*, *Get*, and *Delete* operations along with *TTL* functionality.
 
 ## Features
